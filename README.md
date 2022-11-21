@@ -1,4 +1,4 @@
-Hi 👋 My name is Heval Nergiz
+Hi 👋 My name is Heval
 =============================
 
 Creative Developer
